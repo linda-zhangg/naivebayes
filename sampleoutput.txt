@@ -1,0 +1,57 @@
+Test instances ===========================================
+
+P(Y =  no-recurrence-events ) =  0.7063197026022305
+P(Y =  recurrence-events ) =  0.2936802973977695
+
+
+P(Y =  no-recurrence-events , X = ['50-59', 'premeno', '50-54', '0-2', 'yes', '2', 'right', 'left_up', 'yes'] ) =  4.017731924138001e-06
+P(Y =  recurrence-events , X = ['50-59', 'premeno', '50-54', '0-2', 'yes', '2', 'right', 'left_up', 'yes'] ) =  7.096642912782161e-06
+predicted class of the input vector:  recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['50-59', 'ge40', '35-39', '0-2', 'no', '2', 'left', 'left_up', 'no'] ) =  0.00033365875538186835
+P(Y =  recurrence-events , X = ['50-59', 'ge40', '35-39', '0-2', 'no', '2', 'left', 'left_up', 'no'] ) =  2.6021024013534593e-05
+predicted class of the input vector:  no-recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['50-59', 'premeno', '10-14', '3-5', 'no', '1', 'right', 'left_up', 'no'] ) =  4.707378797592419e-05
+P(Y =  recurrence-events , X = ['50-59', 'premeno', '10-14', '3-5', 'no', '1', 'right', 'left_up', 'no'] ) =  9.715041077797865e-07
+predicted class of the input vector:  no-recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['40-49', 'premeno', '10-14', '0-2', 'no', '2', 'left', 'left_low', 'yes'] ) =  0.00015163354504655905
+P(Y =  recurrence-events , X = ['40-49', 'premeno', '10-14', '0-2', 'no', '2', 'left', 'left_low', 'yes'] ) =  1.0219165794406317e-05
+predicted class of the input vector:  no-recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['50-59', 'ge40', '15-19', '0-2', 'yes', '2', 'left', 'central', 'yes'] ) =  4.34523614378287e-06
+P(Y =  recurrence-events , X = ['50-59', 'ge40', '15-19', '0-2', 'yes', '2', 'left', 'central', 'yes'] ) =  1.9205993914751727e-06
+predicted class of the input vector:  no-recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['50-59', 'premeno', '25-29', '0-2', 'no', '1', 'left', 'left_low', 'no'] ) =  0.0006000123072810078
+P(Y =  recurrence-events , X = ['50-59', 'premeno', '25-29', '0-2', 'no', '1', 'left', 'left_low', 'no'] ) =  3.880403296274196e-05
+predicted class of the input vector:  no-recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['60-69', 'ge40', '25-29', '0-2', 'no', '3', 'right', 'left_low', 'no'] ) =  0.0002071279390811688
+P(Y =  recurrence-events , X = ['60-69', 'ge40', '25-29', '0-2', 'no', '3', 'right', 'left_low', 'no'] ) =  7.415569159796725e-05
+predicted class of the input vector:  no-recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['60-69', 'ge40', '20-24', '0-2', 'no', '1', 'right', 'left_up', 'no'] ) =  0.00031504865826699285
+P(Y =  recurrence-events , X = ['60-69', 'ge40', '20-24', '0-2', 'no', '1', 'right', 'left_up', 'no'] ) =  8.934762413310772e-06
+predicted class of the input vector:  no-recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['40-49', 'ge40', '30-34', '3-5', 'no', '3', 'left', 'left_low', 'no'] ) =  3.9123945169671666e-05
+P(Y =  recurrence-events , X = ['40-49', 'ge40', '30-34', '3-5', 'no', '3', 'left', 'left_low', 'no'] ) =  6.483884504037111e-05
+predicted class of the input vector:  recurrence-events
+
+
+P(Y =  no-recurrence-events , X = ['50-59', 'ge40', '30-34', '3-5', 'no', '3', 'left', 'left_low', 'no'] ) =  4.1017039290784815e-05
+P(Y =  recurrence-events , X = ['50-59', 'ge40', '30-34', '3-5', 'no', '3', 'left', 'left_low', 'no'] ) =  5.283165151437645e-05
+predicted class of the input vector:  recurrence-events
+
+
+Accuracy:  0.8
